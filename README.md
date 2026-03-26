@@ -33,7 +33,7 @@ Each skill operates in two modes:
 
 ## Built by [Broadr](https://broadr.app)
 
-Broadr is Linear for social media planning — fast, keyboard-driven workflows with AI integration for creators and teams.
+Broadr is your AI agent for social media — create content, post, and schedule across all your channels.
 
 ## License
 
