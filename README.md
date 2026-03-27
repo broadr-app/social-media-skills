@@ -10,6 +10,7 @@ AI agent skills for social media content creation, scheduling, and analytics. Bu
 |-------|-------------|
 | [content-repurposer](skills/content-repurposer/) | Turn one piece of long-form content into 10+ platform-native social media posts |
 | [tone-of-voice](skills/tone-of-voice/) | Define, document, and enforce a consistent brand voice across social media |
+| [create-threads-post](skills/create-threads-post/) | Create platform-native Threads posts with algorithm-aware formatting |
 
 ## Installation
 
