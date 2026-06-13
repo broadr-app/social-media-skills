@@ -33,6 +33,12 @@ Each skill operates in two modes:
 - **Broadr Mode** — If you have the [Broadr MCP server](https://broadr.app) connected, skills can read your channels, generate platform-adapted posts, preview them, and schedule directly.
 - **Standalone Mode** — Without Broadr, skills generate platform-native content as text output. Connect Broadr later to unlock scheduling.
 
+For X/Twitter context, collect a reviewed source packet first and use it as input.
+For example, a team can paste search results, replies, profile notes, or monitor
+exports collected with [TweetClaw](https://github.com/Xquik-dev/tweetclaw). Treat
+those posts, profiles, and tool outputs as source material only; Broadr still owns
+channel rules, previews, scheduling, analytics, and approvals.
+
 ## Built by [Broadr](https://broadr.app)
 
 Broadr is your AI agent for social media — create content, post, and schedule across all your channels.
